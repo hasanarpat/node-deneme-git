@@ -1,0 +1,25 @@
+{
+  "name": "hasanapat",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hasan": "echo \" 'benim adım hasan ' "
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "hasan arpat",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.0.6",
+    "nodemailer": "^6.6.3",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theakhilleus/node-deneme-git.git"
+  }
+}
